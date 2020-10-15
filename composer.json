@@ -1,0 +1,12 @@
+{
+    "name": "pearson/php-mvc",
+    "description": "A basic MVC framework for extension",
+    "autoload":{
+        "psr-4": {
+            "FW\\": "./"
+        }
+    },
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
