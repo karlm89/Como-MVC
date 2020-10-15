@@ -1,4 +1,4 @@
-# Pearson PHP MVC Framework
+# Como PHP MVC Framework
 
 ## Reading the README :
 
