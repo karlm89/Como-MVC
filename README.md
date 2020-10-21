@@ -1,5 +1,10 @@
 # Como PHP MVC Framework
 
+## Description : 
+Como PHP is a PHP MVC Framework built on the ideas from Symfony & Laravel. The idea for this framework is low barrier to entry for PHP developers that have never used a MVC Framework. 
+
+All the vendor features added to Como are configured, but not required for use of the application. For example: If you look at the composer.json, you will see Twig is required, but you will find that it is not required in order to use the framework.
+
 ## Reading the README :
 
 Commands that should be run in a terminal should be marked with ```>``` , the arrow itself should not be typed in the terminal. 
